@@ -2,8 +2,6 @@
 
 Code Forge Live is a collaborative online code Editor built with Next.js, Express.js, Websockets, providing a seamless and real-time coding experience for multiple users.
 
-## Deployment Link 
-- http://3.109.210.144/
 
 
 ## Features
@@ -43,8 +41,3 @@ To get started with Code Forge Live, follow these steps:
  Install backend dependencies: `npm install`
  Start the backend server: `node server.js`
 ```
-
-    
-## Demo
-
-🔗 Youtube Link: https://www.youtube.com/watch?v=EfxfG5PH3Ro
