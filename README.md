@@ -1,4 +1,4 @@
-# Online Compiler
+# Code Forge Live (Online Compiler)
 
 Live collaborative online code Editor built with Next.js, Express.js, Websockets, providing a seamless and real-time coding experience for multiple users.
 
